@@ -1,11 +1,6 @@
-# AtliQ-Hospitality-Analysis
+
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AtliQ Hospitality Analysis - PowerBI</title>
-</head>
 <body>
     <h1>AtliQ Hospitality Analysis - PowerBI</h1>
     <p>As part of the codebasics September month resume challenge, I have worked on this analysis project.</p>
